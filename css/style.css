@@ -1,0 +1,35 @@
+body{
+    height: 90vh;
+    background-image: url('https://human-needs.org/wp-content/uploads/2023/03/Wilding-theory-overview.png');
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height: 55px;
+    width: 250px;
+}
+div{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+.block{
+    display: block;
+    width: 95%;
+    margin-left: 30px;
+}
